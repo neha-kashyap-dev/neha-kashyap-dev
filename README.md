@@ -12,6 +12,7 @@
 
 - 💼 Freelancer and Software Engineer
 - 🌐 Expertise: MEAN Stack Development
+- 🌐 Additional Expertise: PHP, Laravel, React.js, MySQL
 - 📩 Contact: [Your Email Address](mailto:k.nehait@gmail.com)
 - 💬 Reach out for collaborations, projects, or to discuss technology trends!
 
@@ -35,6 +36,14 @@
 - 🌐 AWS EC2
 - 📦 AWS S3
 - 🎨 HTML/CSS
+
+## Tools and platforms I work with:
+
+- 📊 Jira
+- 🔄 Git
+- 💻 Visual Studio Code
+- 💬 Slack
+- 📱 Skype
 
 Let's connect and bring your ideas to life through innovative web development!
 
