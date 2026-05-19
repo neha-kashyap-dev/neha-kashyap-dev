@@ -12,7 +12,7 @@
 
 - 💼 Freelancer and Software Engineer
 - 🌐 Expertise: MEAN Stack Development
-- 🌐 Additional Expertise: PHP, Laravel, React.js, MySQL
+- 🌐 Additional Expertise: React JS, PostgreSQL, MySQL
 - 📩 Contact: [Your Email Address](mailto:k.nehait@gmail.com)
 - 💬 Reach out for collaborations, projects, or to discuss technology trends!
 
@@ -29,8 +29,6 @@
 - 🚀 Express.js
 - 🅰️ Angular
 - ⚛️ React JS
-- 🐘 PHP
-- 🌟 Laravel
 - 🗄️ MYSQL
 - ☁️ AWS Serverless
 - 🌐 AWS EC2
