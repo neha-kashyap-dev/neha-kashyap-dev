@@ -47,5 +47,9 @@ Let's connect and bring your ideas to life through innovative web development!
 
 #
 
+Note: Most of my professional work is proprietary and covered by NDA. The public repositories here demonstrate the architecture, coding standards, and technical patterns I use in production systems.
+
+#
+
 *"Code is art, and every line is a stroke of imagination."*
 
